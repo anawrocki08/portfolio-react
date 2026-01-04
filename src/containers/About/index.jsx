@@ -42,12 +42,6 @@ function About() {
           automatisés et des applications fonctionnelles qui résolvent de vrais
           problèmes métiers.
           <br />
-          Mon parcours de scientifique (PhD) et de cheffe de projet m'a appris
-          la rigueur, la pensée analytique et la gestion de la complexité.
-          Aujourd'hui, j'applique ces compétences pour créer des systèmes
-          automatisés et des applications fonctionnelles qui résolvent de vrais
-          problèmes métiers.
-          <br />
           Pour mettre en pratique cette passion, j'ai récemment développé de A à
           Z <strong>"MyCRM Freelance"</strong>, un assistant personnel qui
           automatise la gestion des prospects et le suivi des tâches en
