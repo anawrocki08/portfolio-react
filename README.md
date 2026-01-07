@@ -1,6 +1,15 @@
-# Ce site est mon ancien portfolio
+# Portfolio React (Old)
 
-Ce site a été conçu avec Create React App. Vous pouvez le consulter en ligne ici: [Mon Portfolio React](https://anawrocki08.github.io/portfolio-react/).
+Ce projet correspond à un ancien portfolio conçu avec Create React App dans le cadre de ma formation de développeur intégrateur web.
+
+Il m’a permis de mettre en pratique les concepts abordés pendant la formation, notamment :
+
+- composants React
+- structuration d’une application front-end
+- mise en page et présentation de projets
+
+👉 Mon portfolio actuel est disponible ici :
+https://anawrocki08.github.io/portfolio/
 
 ---
 
@@ -13,7 +22,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000/portfolio](http://localhost:3000/portfolio-react) to view it in your browser.
+Open [http://localhost:3000/portfolio-react](http://localhost:3000/portfolio-react) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
