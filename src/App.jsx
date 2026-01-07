@@ -10,7 +10,7 @@ import Error from "./components/Error";
 function App() {
   return (
     // <Router>
-    <Router basename="/portfolio">
+    <Router basename="/portfolio-react">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
